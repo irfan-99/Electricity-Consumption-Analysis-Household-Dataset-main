@@ -2,7 +2,7 @@
 
 # About Me
 
-Hello! I'm Ahmad Ali, a dedicated data scientist specializing in energy analytics and sustainable practices. With a strong foundation in artificial intelligence and machine learning, I am committed to leveraging data-driven insights to optimize household electricity consumption.
+Hello! I'm Irfan Shah, a dedicated data scientist specializing in energy analytics and sustainable practices. With a strong foundation in artificial intelligence and machine learning, I am committed to leveraging data-driven insights to optimize household electricity consumption.
 
 ## Project Focus
 
@@ -30,8 +30,8 @@ I am passionate about contributing to sustainable development through innovative
 
 Feel free to explore my GitHub repository for detailed insights into my projects. I'm open to discussing opportunities, collaborations, or simply sharing knowledge on energy analytics and data science.
 
-- LinkedIn: https://www.linkedin.com/in/ahmad-ali-rafique/
-- Email: arsbussiness786@gmail.com
+- LinkedIn: https://www.linkedin.com/in/irfan-shaik-4b52952b8/
+- Email: shaikirfanshah.99@gmail.com
 
 I look forward to connecting with you!
 
